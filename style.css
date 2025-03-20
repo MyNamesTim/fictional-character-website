@@ -38,4 +38,5 @@ a {
 
 .images img{
     border-radius: 12.5px;
+    display: inline-block;
 }
